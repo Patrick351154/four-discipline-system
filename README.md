@@ -1,4 +1,4 @@
-# Four Discipline System
+# Five Discipline Expert Training System
 
 Static single-page HTML app for mobile use.
 
